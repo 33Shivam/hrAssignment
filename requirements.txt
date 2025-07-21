@@ -1,3 +1,4 @@
+# Force binary-only installation (important for Render)
 --only-binary :all:
 
 annotated-types==0.7.0
@@ -18,7 +19,8 @@ markdown-it-py==3.0.0
 mdurl==0.1.2
 motor==3.1.2
 multidict==6.6.3
-pydantic==2.7.1
+pydantic==2.7.2
+pydantic-core==2.35.2
 pydantic-settings==2.10.1
 Pygments==2.19.2
 pymongo==4.13.2
