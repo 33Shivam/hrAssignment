@@ -18,7 +18,7 @@ motor==3.1.2
 multidict==6.6.3
 pydantic==2.7.1
 pydantic-settings==2.10.1
-pydantic-core==2.20.0 --only-binary :all:
+pydantic-core==2.24.2
 Pygments==2.19.2
 pymongo==4.13.2
 PySocks==1.7.1
